@@ -22,7 +22,7 @@ public class App extends JFrame implements ActionListener {
         public boolean primeiraoperacao, botaoIgual;
         int operacao; 
 
-     //  Calcular obj_res = new Calcular();
+        Calcular obj_res = new Calcular();
 
         public App()
         {	
